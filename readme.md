@@ -16,10 +16,14 @@
         - Start server on 7777 port
 
     Run a rest client
+
+    Create post request to
     http://localhost:7777/requests
-        - address
-    Set Body content type #application/json
-    Set json like #ampars/src/ampars/urls.json
+
+    Set Body content type # application/json
+
+    Set json like # ampars/src/ampars/urls.json
+
     Press Send button
 
 
