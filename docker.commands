@@ -1,0 +1,5 @@
+docker build -t ampars .
+
+docker run -it ampars /bin/bash
+
+docker run -p 7777:7777 ampars

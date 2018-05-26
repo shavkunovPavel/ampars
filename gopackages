@@ -1,4 +1,5 @@
 PP=(
+    github.com/ngs/go-amazon-product-advertising-api/amazon
     github.com/julienschmidt/httprouter
     github.com/PuerkitoBio/goquery
 );
